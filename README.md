@@ -22,7 +22,6 @@ cheating-surveillance/
 │── models/                 # Contains trained YOLO weights and shape predictor model  
     |__ best_yolov8.pt
     |__ best_yolov12.pt
-    |__ shape_predictor_68_face_landmarks.dat 
 │── log                     # Screenshots
 │── main.py                 # Entry point for real-time detection
 │── requirements.txt        # Required dependencies
