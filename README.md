@@ -1,5 +1,7 @@
 # Malpractice Detection System
 
+With evaluations being conducted online in this digital world, it has become increasingly difficult to monitor large-scale examinations and proctoring in an online platform becomes a difficult task. Hence, we have been able to come up with our very own malpractice detection system which has been efficiently programmed to detect and highlight the malpractices that an examinee might resort to when appearing for an online proctored exam. This allows us to ensure that the indisciplined candidates are identified and necessary disciplinary actions are taken against them and fair examinations are conducted for every candidate.
+
 ## Overview
 The **Malpractice Detection System** is designed to detect cheating during Online Interviews/Exams by monitoring head and pupil movements and identifying unauthorized mobile phone usage. This system integrates facial landmark detection with **Shape Predictor 68** and object detection using **YOLOv12**, trained on a cellphone detection dataset from Roboflow.
 
